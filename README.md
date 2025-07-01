@@ -23,4 +23,46 @@ Whether you're a **pharmacist**, **caregiver**, or **everyday user**, this tool 
 ---
 
 
+---
+
+## 🛠️ Tech Stack
+
+- 💻 **Python 3**
+- 🪟 **Tkinter** – for GUI
+- 📁 **CSV** – local database storage
+- 🧠 No external APIs – 100% offline and fast
+
+---
+
+
+---
+
+## 🧪 Sample Data Format
+
+### `medicine_data3.csv` (Search by name)
+
+| Medicine     | Component      | Alternative | Price |
+|--------------|----------------|-------------|-------|
+| Paracetamol  | Acetaminophen  | Calpol      | 20    |
+| Paracetamol  | Acetaminophen  | Pacimol     | 15    |
+
+### `medicine_data2.csv` (Search by composition)
+
+| Component     | Medicine    | Alternative | Price |
+|---------------|-------------|-------------|-------|
+| Ibuprofen     | Brufen      | Ibugesic    | 28    |
+| Acetaminophen | Paracetamol | Crocin      | 25    |
+
+---
+
+## 🚀 How to Run the App
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/AhanaSrinivas/Medicine-Alternaive.git
+cd Medicine-Alternaive
+
+
+
 
