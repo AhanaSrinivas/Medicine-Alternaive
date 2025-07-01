@@ -1,0 +1,76 @@
+Medicine,Component,Alternative,Price
+Dolo 650,Paracetamol,Crocin 650,30
+Dolo 650,Paracetamol,Calpol 650,28
+Crocin 650,Paracetamol,Calpol 650,28
+Calpol 650,Paracetamol,Dolo 650,30
+Aspirin,Blood Thinner,Disprin,20
+Disprin,Blood Thinner,Aspirin,18
+Brufen 400,Ibuprofen,Ibugesic 400,25
+Brufen 400,Ibuprofen,Combiflam,27
+Combiflam,Ibuprofen,Ibugesic 400,25
+Ibugesic 400,Ibuprofen,Brufen 400,25
+Metacin,Paracetamol,Crocin 650,30
+Sinarest,Paracetamol+Dextromethorphan+Phenylephrine,Flucold,40
+Flucold,Paracetamol+Dextromethorphan+Phenylephrine,Sinarest,38
+Cetrizine,Antihistamine,Levocet,15
+Levocet,Antihistamine,Cetrizine,14
+Zyrtec,Antihistamine,Cetrizine,15
+Allegra,Antihistamine,Levocet,16
+Azithral 500,Azithromycin,Zithromax 500,100
+Azithral 500,Azithromycin,Azithromycin 500,98
+Zithromax 500,Azithromycin,Azithral 500,100
+Azithromycin 500,Azithromycin,Zithromax 500,98
+Pantocid,Pantoprazole,Pantop 40,50
+Pantop 40,Pantoprazole,Pantocid,50
+Omez,Omeprazole,Rabicip,45
+Rabicip,Omeprazole,Omez,44
+Rantac 150,Ranitidine,Aciloc 150,30
+Aciloc 150,Ranitidine,Rantac 150,30
+Meftal Spas,Mefenamic Acid+Dicyclomine,Colimex,55
+Colimex,Mefenamic Acid+Dicyclomine,Meftal Spas,53
+Spasmo Proxyvon,Dicyclomine+Paracetamol,Meftal Spas,60
+Drotin,Drotaverine,Nospa,58
+Nospa,Drotaverine,Drotin,57
+Ecosprin 75,Aspirin,Clopitab 75,20
+Clopitab 75,Aspirin,Ecosprin 75,19
+Amlodipine,Amlodipine,Besicor 5,22
+Besicor 5,Amlodipine,Amlodipine,22
+Telma 40,Telmisartan,Telmisat 40,50
+Telmisat 40,Telmisartan,Telma 40,50
+Losar 50,Losartan,Repace 50,55
+Repace 50,Losartan,Losar 50,55
+Atorva 10,Atorvastatin,Lipicure 10,60
+Lipicure 10,Atorvastatin,Atorva 10,60
+Rosuvas 10,Rosuvastatin,Crestor 10,65
+Crestor 10,Rosuvastatin,Rosuvas 10,65
+Glucophage 500,Metformin,Metformin 500,30
+Metformin 500,Metformin,Glucophage 500,30
+Glycomet 500,Metformin,Glucophage 500,30
+Januvia 50,Sitagliptin,Galvus 50,90
+Galvus 50,Sitagliptin,Januvia 50,88
+Dapagliflozin,Dapagliflozin,Foxiga,85
+Foxiga,Dapagliflozin,Dapagliflozin,85
+Glimepiride,Glimepiride,Amaryl,40
+Amaryl,Glimepiride,Glimepiride,40
+Voglibose,Voglibose,Voglibite,35
+Voglibite,Voglibose,Voglibose,35
+Thyronorm 50,Thyroxine,Eltroxin 50,25
+Eltroxin 50,Thyroxine,Thyronorm 50,25
+Synthroid,Thyroxine,Eltroxin 50,27
+Levoflox 500,Levofloxacin,Ciplox 500,80
+Ciplox 500,Ciprofloxacin,Levoflox 500,78
+Cefixime 200,Cefixime,Cefspan 200,85
+Cefspan 200,Cefixime,Cefixime 200,85
+Augmentin 625,Amoxicillin+Clavulanic Acid,Moxikind CV 625,120
+Moxikind CV 625,Amoxicillin+Clavulanic Acid,Augmentin 625,118
+Taxim O 200,Cefixime,Cefixime 200,85
+Cefpodoxime 200,Cefpodoxime,Cefoprox 200,90
+Cefoprox 200,Cefpodoxime,Cefpodoxime 200,90
+Azee 500,Azithromycin,Azithral 500,100
+Azithral 500,Azithromycin,Azee 500,100
+Calcirol,Vitamin D3,D-Rise,45
+D-Rise,Vitamin D3,Calcirol,45
+Shelcal 500,Calcium+D3,Corcal 500,40
+Corcal 500,Calcium+D3,Shelcal 500,40
+Neurobion,B Vitamins,Mecofol,30
+Mecofol,B Vitamins,Neurobion,30
