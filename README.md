@@ -1,26 +1,26 @@
 # 💊 Medicine-Alternaive
 
-A simple Python-based GUI application that helps users find **cheaper alternatives to branded medicines** either by **medicine name** or **active composition**. Built to support better healthcare affordability in India.
+> ✨ An intelligent desktop assistant that helps users find **affordable medicine alternatives** by either **medicine name** or **chemical composition** – built with Python and Tkinter.
+
+---
+
+## 📌 Overview
+
+Millions in India struggle to access essential medications due to high costs. This app helps users search for **cheaper medicine substitutes** using locally stored data, supporting affordability and informed choices.
+
+Whether you're a **pharmacist**, **caregiver**, or **everyday user**, this tool makes understanding options easy.
 
 ---
 
 ## 🧠 Features
 
-- 🔍 Search by **Medicine Name** or **Composition**
-- 💸 View **cheaper alternatives** sorted by price
-- 📁 Uses **CSV datasets** as a local medicine database
-- 🪟 User-friendly GUI built with **Tkinter**
+✅ Search by **Branded Medicine Name**  
+✅ Search by **Active Chemical Composition**  
+✅ Displays **lower-cost alternatives**, sorted by price  
+✅ Simple and clean **Tkinter GUI**  
+✅ Lightweight and offline — no internet needed  
 
 ---
 
-## 🖥️ Demo
 
-![App Preview](screenshot.png)  
-*(Add your own screenshot if you'd like!)*
 
----
-
-## 🛠️ Tech Stack
-
-- **Python 3**
-- **Tkinter**
